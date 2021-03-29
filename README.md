@@ -1,5 +1,5 @@
 <p align="center">
-  <img src=""> Em manutenção
+  <img src="![favicon_1](https://user-images.githubusercontent.com/60955355/112892452-b547f300-90af-11eb-8d38-fa31b21fa4e0.jpg)"> Em manutenção
 </p>      
 
 # Batalha Naval - #Gaming_Fl1x
@@ -10,4 +10,5 @@ Batalha naval é um jogo de tabuleiro de dois jogadores, no qual os jogadores t�
 
 ¹ [Batalha Naval - Wikipedia](https://pt.wikipedia.org/wiki/Batalha_naval_(jogo))
   
- [Batalha Naval - Jogo](https://batalha-naval-xi.vercel.app/)
+**Link direto do Jogo** [Batalha Naval - Jogo](https://batalha-naval-xi.vercel.app/)
+

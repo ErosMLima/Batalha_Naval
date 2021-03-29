@@ -10,3 +10,4 @@ Batalha naval é um jogo de tabuleiro de dois jogadores, no qual os jogadores t�
 
 ¹ [Batalha Naval - Wikipedia](https://pt.wikipedia.org/wiki/Batalha_naval_(jogo))
   
+ [Batalha Naval - Jogo](https://batalha-naval-xi.vercel.app/)
